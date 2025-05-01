@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\SubtitleDownloader\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51734FC3-6CD7-4BAA-8C5E-D0676E9FFDD3}|SubtitleDownloader\\SubtitleDownloader.csproj|c:\\projetos\\subtitledownloader\\subtitledownloader\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{51734FC3-6CD7-4BAA-8C5E-D0676E9FFDD3}|SubtitleDownloader\\SubtitleDownloader.csproj|solutionrelative:subtitledownloader\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51734FC3-6CD7-4BAA-8C5E-D0676E9FFDD3}|SubtitleDownloader\\SubtitleDownloader.csproj|c:\\projetos\\subtitledownloader\\subtitledownloader\\appsettingsexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51734FC3-6CD7-4BAA-8C5E-D0676E9FFDD3}|SubtitleDownloader\\SubtitleDownloader.csproj|solutionrelative:subtitledownloader\\appsettingsexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51734FC3-6CD7-4BAA-8C5E-D0676E9FFDD3}|SubtitleDownloader\\SubtitleDownloader.csproj|c:\\projetos\\subtitledownloader\\subtitledownloader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51734FC3-6CD7-4BAA-8C5E-D0676E9FFDD3}|SubtitleDownloader\\SubtitleDownloader.csproj|solutionrelative:subtitledownloader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51734FC3-6CD7-4BAA-8C5E-D0676E9FFDD3}|SubtitleDownloader\\SubtitleDownloader.csproj|c:\\projetos\\subtitledownloader\\subtitledownloader\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51734FC3-6CD7-4BAA-8C5E-D0676E9FFDD3}|SubtitleDownloader\\SubtitleDownloader.csproj|solutionrelative:subtitledownloader\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gusta\\.nuget\\packages\\opendialogwindowhandler\\0.0.0.1\\ReadMe.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51734FC3-6CD7-4BAA-8C5E-D0676E9FFDD3}|SubtitleDownloader\\SubtitleDownloader.csproj|c:\\projetos\\subtitledownloader\\subtitledownloader\\subtitledownloader.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{51734FC3-6CD7-4BAA-8C5E-D0676E9FFDD3}|SubtitleDownloader\\SubtitleDownloader.csproj|solutionrelative:subtitledownloader\\subtitledownloader.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 139,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\SubtitleDownloader\\SubtitleDownloader\\Program.cs",
+              "RelativeDocumentMoniker": "SubtitleDownloader\\Program.cs",
+              "ToolTip": "C:\\Projetos\\SubtitleDownloader\\SubtitleDownloader\\Program.cs",
+              "RelativeToolTip": "SubtitleDownloader\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T17:16:42.299Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Projetos\\SubtitleDownloader\\SubtitleDownloader\\.gitignore",
+              "RelativeDocumentMoniker": "SubtitleDownloader\\.gitignore",
+              "ToolTip": "C:\\Projetos\\SubtitleDownloader\\SubtitleDownloader\\.gitignore",
+              "RelativeToolTip": "SubtitleDownloader\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-01T18:00:56.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppSettingsExample.cs",
+              "DocumentMoniker": "C:\\Projetos\\SubtitleDownloader\\SubtitleDownloader\\AppSettingsExample.cs",
+              "RelativeDocumentMoniker": "SubtitleDownloader\\AppSettingsExample.cs",
+              "ToolTip": "C:\\Projetos\\SubtitleDownloader\\SubtitleDownloader\\AppSettingsExample.cs",
+              "RelativeToolTip": "SubtitleDownloader\\AppSettingsExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T17:44:01.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\Projetos\\SubtitleDownloader\\SubtitleDownloader\\AppSettings.cs",
+              "RelativeDocumentMoniker": "SubtitleDownloader\\AppSettings.cs",
+              "ToolTip": "C:\\Projetos\\SubtitleDownloader\\SubtitleDownloader\\AppSettings.cs",
+              "RelativeToolTip": "SubtitleDownloader\\AppSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T17:43:08.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SubtitleDownloader.csproj",
+              "DocumentMoniker": "C:\\Projetos\\SubtitleDownloader\\SubtitleDownloader\\SubtitleDownloader.csproj",
+              "RelativeDocumentMoniker": "SubtitleDownloader\\SubtitleDownloader.csproj",
+              "ToolTip": "C:\\Projetos\\SubtitleDownloader\\SubtitleDownloader\\SubtitleDownloader.csproj",
+              "RelativeToolTip": "SubtitleDownloader\\SubtitleDownloader.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-01T17:39:46.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\gusta\\.nuget\\packages\\opendialogwindowhandler\\0.0.0.1\\ReadMe.txt",
+              "RelativeDocumentMoniker": "..\\..\\Users\\gusta\\.nuget\\packages\\opendialogwindowhandler\\0.0.0.1\\ReadMe.txt",
+              "ToolTip": "C:\\Users\\gusta\\.nuget\\packages\\opendialogwindowhandler\\0.0.0.1\\ReadMe.txt",
+              "RelativeToolTip": "..\\..\\Users\\gusta\\.nuget\\packages\\opendialogwindowhandler\\0.0.0.1\\ReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-01T16:32:57.635Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
