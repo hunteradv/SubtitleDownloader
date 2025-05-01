@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Projetos\\SubtitleDownloader\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{51734FC3-6CD7-4BAA-8C5E-D0676E9FFDD3}|SubtitleDownloader\\SubtitleDownloader.csproj|c:\\projetos\\subtitledownloader\\subtitledownloader\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{51734FC3-6CD7-4BAA-8C5E-D0676E9FFDD3}|SubtitleDownloader\\SubtitleDownloader.csproj|solutionrelative:subtitledownloader\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{51734FC3-6CD7-4BAA-8C5E-D0676E9FFDD3}|SubtitleDownloader\\SubtitleDownloader.csproj|c:\\projetos\\subtitledownloader\\subtitledownloader\\appsettingsexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51734FC3-6CD7-4BAA-8C5E-D0676E9FFDD3}|SubtitleDownloader\\SubtitleDownloader.csproj|solutionrelative:subtitledownloader\\appsettingsexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -33,11 +29,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 139,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 25,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projetos\\SubtitleDownloader\\SubtitleDownloader\\Program.cs",
               "RelativeDocumentMoniker": "SubtitleDownloader\\Program.cs",
@@ -47,19 +43,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-18T17:16:42.299Z",
               "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Projetos\\SubtitleDownloader\\SubtitleDownloader\\.gitignore",
-              "RelativeDocumentMoniker": "SubtitleDownloader\\.gitignore",
-              "ToolTip": "C:\\Projetos\\SubtitleDownloader\\SubtitleDownloader\\.gitignore",
-              "RelativeToolTip": "SubtitleDownloader\\.gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-05-01T18:00:56.575Z",
               "EditorCaption": ""
             },
             {
@@ -160,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AppSettingsExample.cs",
               "DocumentMoniker": "C:\\Projetos\\SubtitleDownloader\\SubtitleDownloader\\AppSettingsExample.cs",
               "RelativeDocumentMoniker": "SubtitleDownloader\\AppSettingsExample.cs",
@@ -168,12 +151,11 @@
               "RelativeToolTip": "SubtitleDownloader\\AppSettingsExample.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T17:44:01.862Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T17:44:01.862Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "AppSettings.cs",
               "DocumentMoniker": "C:\\Projetos\\SubtitleDownloader\\SubtitleDownloader\\AppSettings.cs",
               "RelativeDocumentMoniker": "SubtitleDownloader\\AppSettings.cs",
@@ -185,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "SubtitleDownloader.csproj",
               "DocumentMoniker": "C:\\Projetos\\SubtitleDownloader\\SubtitleDownloader\\SubtitleDownloader.csproj",
               "RelativeDocumentMoniker": "SubtitleDownloader\\SubtitleDownloader.csproj",
@@ -197,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "ReadMe.txt",
               "DocumentMoniker": "C:\\Users\\gusta\\.nuget\\packages\\opendialogwindowhandler\\0.0.0.1\\ReadMe.txt",
               "RelativeDocumentMoniker": "..\\..\\Users\\gusta\\.nuget\\packages\\opendialogwindowhandler\\0.0.0.1\\ReadMe.txt",

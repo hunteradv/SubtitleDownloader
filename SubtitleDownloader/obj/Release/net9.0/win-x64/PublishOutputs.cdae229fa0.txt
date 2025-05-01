@@ -1,0 +1,2 @@
+C:\Projetos\SubtitleDownloader\SubtitleDownloader\bin\Release\net9.0\win-x64\publish\SubtitleDownloader.pdb
+C:\Projetos\SubtitleDownloader\SubtitleDownloader\bin\Release\net9.0\win-x64\publish\SubtitleDownloader.exe
